@@ -1,6 +1,9 @@
 # YaDisk-Dup-Cleaner
 The program deletes obsolete files on Yandex disk. Files should have the structure: &lt;timestamp&gt;\_&lt;id&gt;_&lt;name&gt;, where &lt;timestamp&gt; is a time branch, &lt;id&gt; is a unique identifier, &lt;name&gt; is the remaining part of the name.
 
+# WARNING
+The program deletes files, make sure you understand what you are doing.
+
 # Instructions for use
 
 1. Clone the repository as follows:
