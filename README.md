@@ -23,7 +23,7 @@ python3 -m venv .venv && source .venv/bin/activate
 
 4. Install the necessary dependencies:
 ```
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 5. Run cleanup like this:
