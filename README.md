@@ -13,7 +13,7 @@ git clone https://github.com/Larionov-VA/YaDisk-Dup-Cleaner.git
 
 2. Go to the directory with the project code:
 ```
-cd YaDisk-Dup-Cleaner/src
+cd YaDisk-Dup-Cleaner
 ```
 
 3. Create an environment variable and activate it:
