@@ -28,6 +28,6 @@ pip install -r requirements.txt
 
 5. Run cleanup like this:
 ```
-python3 main.py -t &lt;Your_OAuth_token&gt; -f &lt;Folder_name&gt; -i &lt;Your_ClientID&gt; -s &lt;Your_Client_secret&gt;
+python3 main.py -t <Your_OAuth_token> -f <Folder_name> -i <Your_ClientID> -s <Your_Client_secret>
 ```
 Optional: use flag ```-p``` or ```--permatently``` to permanently delete files
